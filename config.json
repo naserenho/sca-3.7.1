@@ -1,7 +1,7 @@
 {
     "app_id": "com.tadawul.scalearning",
-    "appname": "SCA Learning",
-    "desktopappname": "SCA Learning",
+    "appname": "SCA Learning & Awareness",
+    "desktopappname": "SCA Learning & Awareness",
     "versioncode": 3710,
     "versionname": "3.7.1",
     "cache_update_frequency_usually": 420000,
@@ -66,8 +66,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://www.scalearning.ae",
-    "sitename": "SCA Learning",
+    "siteurl": "https://scalearning.ae",
+    "sitename": "SCA Learning & Awareness",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
