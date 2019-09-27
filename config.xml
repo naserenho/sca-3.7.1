@@ -6,10 +6,10 @@
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>SCA Learning & Awareness</name>
+    <name>SCA Learning</name>
 
     <description>
-       SCA Learning & Awareness
+       SCA Learning
     </description>
 
     <author href="http://tadawul.academy" email="learn@tadawul.academy">
