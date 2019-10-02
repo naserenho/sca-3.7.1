@@ -1,12 +1,5 @@
 {
-    "core.courses.enrolme": "تسجل", 
-    "core.openinbrowser": "إفتح في المتصفح",
-    "core.courses.confirmselfenrol": "هل تريد التسجيل  في هذه الدورة؟",
-    "core.courses.selfenrolment": "التسجيل",
-    "core.courses.password": "كلمة السر",
-
-
- "addon.block_activitymodules.pluginname": "أنشطة",
+    "addon.block_activitymodules.pluginname": "أنشطة",
     "addon.block_badges.pluginname": "أحدث الشارات",
     "addon.block_blogmenu.pluginname": "قائمة المدونة",
     "addon.block_blogrecent.pluginname": "مدخلات المدونة الحديثة",
