@@ -6,13 +6,7 @@
     "core.courses.password": "كلمة السر",
     "addon.block_learningplans.pluginname": "المسارات التعليمية",
     "addon.block_recentlyaccessedcourses.pluginname": "الدورات التي تم الدخول إليها مؤخرًا",
-    "addon.block_myoverview.pluginname": "نظرة عامة",
-	"addon.block_timeline.pluginname": "الجدول الزمني",
-	"addon.block_timeline.next30days": "30 يوما القادمة",
-    "addon.block_timeline.noevents": "لا توجد أنشطة قادمة",
-    "addon.block_onlineusers.pluginname": "المستخدمين الموجدين على الموقع الآن",	
-	
-	
+
 
  "addon.block_activitymodules.pluginname": "أنشطة",
     "addon.block_badges.pluginname": "أحدث الشارات",
@@ -827,7 +821,7 @@
     "core.courses.frontpage": "الصفحة الرئيسية",
     "core.courses.ignore": "تجاهل",
     "core.courses.mycourses": "مقرراتي الدراسية",
-    "core.courses.mymoodle": "الصفحة الخاصة بك",
+    "core.courses.mymoodle": "مودل الخاص بي",
     "core.courses.nocourses": "لا يوجد معلومات لمقرر دراسي ليتم اظهرها",
     "core.courses.nocoursesyet": "لا توجد مقررات دراسية لهذه الفئة",
     "core.courses.nosearchresults": "لا يوجد نتائج",
@@ -917,7 +911,7 @@
     "core.login.forgotten": "هل نسيت اسم الدخول أو كلمة المرور؟",
     "core.login.getanothercaptcha": "احصل على كاباتشا أخرى",
     "core.login.help": "مساعدة",
-    "core.login.helpmelogin": "<p>من أجل تسجيل الدخول، يرجى التحقق مما يلي:</p>\n١- إصدار موقع التعلم الإلكتروني هو الإصدار ٢.٤ أو أعلى.<br />\n٢- قد مكن مسؤول موقع التعلم الإلكتروني الوصول عبر التطبيق .<br /><br />\n<p><a href='http://docs.moodle.org/en/Mobile_app' target='_blank'>لو لم تستطع الدخول من خلال موقع التعلم الإلكتروني الخاص بك قم بالاتصال بمدير موقع التعلم الإلكتروني الخاص بك وأطلب منه زيارة موقع وثائق موودل للحصول على معلومات أكثر تفصيلا والمساعدة.</a></p>\nلاختبار التطبيق باستخدام الموقع التجريبي ضع <b>student</b> أو <b>teacher</b> في حقل <b>عنوان الموقع</b> وانقر على زر <b>دخول</b>",
+    "core.login.helpmelogin": "<p>من أجل تسجيل الدخول، يرجى التحقق مما يلي:</p>\n١- إصدار موقع التعلم الإلكتروني مودل هو الإصدار ٢.٤ أو أعلى.<br />\n٢- قد مكن مسؤول موقع التعلم الإلكتروني مودل الوصول عبر تطبيق مودل.<br /><br />\n<p><a href='http://docs.moodle.org/en/Mobile_app' target='_blank'>لو لم تستطع الدخول من خلال موقع التعلم الإلكتروني مودل الخاص بك قم بالاتصال بمدير موقع التعلم الإلكتروني مودل الخاص بك وأطلب منه زيارة موقع وثائق موودل للحصول على معلومات أكثر تفصيلا والمساعدة.</a></p>\nلاختبار التطبيق باستخدام الموقع التجريبي لمودل ضع <b>student</b> أو <b>teacher</b> في حقل <b>عنوان الموقع</b> وانقر على زر <b>دخول</b>",
     "core.login.instructions": "تعليمات",
     "core.login.invalidaccount": "يرجى مراجعة تفاصيل تسجيل الدخول الخاصة بك أو الطلب من مسؤول موقع الويب الخاص بك للتحقق من تكوين موقع.",
     "core.login.invaliddate": "تاريخ غير صحيح",
@@ -933,7 +927,7 @@
     "core.login.missinglastname": "الاسم الأخير  لم يتم تحدده",
     "core.login.mustconfirm": "أنت تحتاج إلى تأكيد الدخول",
     "core.login.newaccount": "حساب مشترك جديد",
-    "core.login.newsitedescription": "من فضلك أدخل رابط موقع نظام التعلم الإلكتروني الخاص بك. لاحظ انه من الممكن أن يكون لم يتم إعداده للعمل مع هذا التطبيق.",
+    "core.login.newsitedescription": "من فضلك أدخل رابط موقع نظام التعلم الإلكتروني مودل الخاص بك. لاحظ انه من الممكن أن يكون لم يتم إعداده للعمل مع هذا التطبيق.",
     "core.login.password": "كلمة المرور",
     "core.login.passwordforgotten": "كلمة المرور المنسيه",
     "core.login.passwordforgotteninstructions2": "لإعادة تعيين كلمة المرور، أدخل اسم المستخدم أو البريد الإلكتروني الخاص بك في الأسفل. سيتم إرسال رسالة لك في حال إيجادك في قاعدة اليبانات، مع تعليمات عن كيفية الدخول مجدداً.",
