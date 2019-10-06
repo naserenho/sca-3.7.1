@@ -15,7 +15,7 @@
     "core.settings.enablerichtexteditor": "تمكين محرر النصوص",	
     "core.settings.enablerichtexteditordescription": "في حالة التمكين ، سيكون محرر النصوص متاحًا عند إدخال المحتوى.",
     "core.settings.debugdisplaydescription": "في حالة التمكين ، سيتم عرض المزيد من البيانات حول الأخطاء.",
-
+    "core.settings.fontsizecharacter": "أ",
 
 
  "addon.block_activitymodules.pluginname": "أنشطة",
