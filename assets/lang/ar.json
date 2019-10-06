@@ -11,8 +11,12 @@
 	"addon.block_timeline.next30days": "30 يوما القادمة",
     "addon.block_timeline.noevents": "لا توجد أنشطة قادمة",
     "addon.block_onlineusers.pluginname": "المستخدمين الموجدين على الموقع الآن",	
-	
-	
+    "core.settings.fontsize": "حجم الخط",	
+    "core.settings.enablerichtexteditor": "تمكين محرر النصوص",	
+    "core.settings.enablerichtexteditordescription": "في حالة التمكين ، سيكون محرر النصوص متاحًا عند إدخال المحتوى.",
+    "core.settings.debugdisplaydescription": "في حالة التمكين ، سيتم عرض المزيد من البيانات حول الأخطاء.",
+
+
 
  "addon.block_activitymodules.pluginname": "أنشطة",
     "addon.block_badges.pluginname": "أحدث الشارات",
