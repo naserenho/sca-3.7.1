@@ -1,7 +1,7 @@
 {
     "app_id": "com.tadawul.scalearning",
-    "appname": "SCA Learning",
-    "desktopappname": "SCA Learning",
+    "appname": "Al Majlis - SCA Learning",
+    "desktopappname": "Al Majlis - SCA Learning",
     "versioncode": 3711,
     "versionname": "3.7.11",
     "cache_update_frequency_usually": 420000,
@@ -67,7 +67,7 @@
     ],
     "customurlscheme": "moodlemobile",
     "siteurl": "https://scalearning.ae",
-    "sitename": "SCA Learning",
+    "sitename": "Al Majlis - SCA Learning",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
